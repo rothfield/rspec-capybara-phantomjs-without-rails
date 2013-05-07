@@ -15,6 +15,5 @@ Installation
 git clone git@github.com:rothfield/rspec_capybara_selenium_without_rails.git
 bundle install --binstubs
 
-# You may have to edit the file spike_capybara_spec.rb to set the firefox path.
-# Then to run the tests:
-spec
+# To run the tests:
+rspec
